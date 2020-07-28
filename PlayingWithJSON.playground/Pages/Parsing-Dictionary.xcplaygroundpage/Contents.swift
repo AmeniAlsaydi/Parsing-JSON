@@ -37,15 +37,15 @@ struct Contact: Decodable {
 }
 
 
-//=================
+//=========================================
 // decode the JSON data to our Swift model
-//==================
+//=========================================
 
 
 // always use the top level object to decode data
 do {
     let dictionary = try JSONDecoder().decode(ResultsWrapper.self, from: json)
-    let contacts = dictionary.results 
+    let contacts = dictionary.results
     dump(contacts)
 } catch {
     print("decoding error: \(error)")
