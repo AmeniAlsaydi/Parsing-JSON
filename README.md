@@ -3,6 +3,7 @@
 Parsing JSON review. In this review we will be using _Playgrounds_, using _Unit Tests_, reading from the _App Bundle_ and displaying the _JSON_ data in a table view.
 
 [Lesson Link](https://github.com/alexpaul/Parsing-JSON-Review) 
+
 Videos: [Part1](https://www.youtube.com/watch?v=Z6t_4_1xqnI)
 
 ## Objective
