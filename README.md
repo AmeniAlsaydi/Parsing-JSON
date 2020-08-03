@@ -4,7 +4,7 @@ Parsing JSON review. In this review we will be using _Playgrounds_, using _Unit 
 
 [Lesson Link](https://github.com/alexpaul/Parsing-JSON-Review) 
 
-Videos: [Part1](https://www.youtube.com/watch?v=Z6t_4_1xqnI), [Part](https://www.youtube.com/watch?v=CbZ9ILy22eE)
+Videos: [Part 1](https://www.youtube.com/watch?v=Z6t_4_1xqnI), [Part 2](https://www.youtube.com/watch?v=CbZ9ILy22eE)
 
 ## Objective
 
