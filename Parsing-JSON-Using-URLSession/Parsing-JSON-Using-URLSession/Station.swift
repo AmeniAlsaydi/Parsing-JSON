@@ -16,7 +16,7 @@ struct StationsWrapper: Decodable {
     let stations: [Station]
 }
 
-struct Station: Decodable {
+struct Station: Decodable, Hashable {
     let name: String
     let stationType: String
     let latitude: Double
